@@ -1,0 +1,20 @@
+# Vivado generated
+*.cache/
+*.runs/
+*.sim/
+*.hw/
+*.ip_user_files/
+*.Xil/
+
+# Reports / logs
+*.log
+*.jou
+*.str
+*.wdf
+*.xml
+*.rst
+*.html
+
+# OS
+.DS_Store
+Thumbs.db

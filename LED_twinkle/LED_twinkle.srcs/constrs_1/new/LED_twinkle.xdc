@@ -1,0 +1,6 @@
+set_property PACKAGE_PIN Y9 [get_ports CLK]
+set_property IOSTANDARD LVCMOS33 [get_ports CLK]
+set_property PACKAGE_PIN P20 [get_ports LED]
+set_property PACKAGE_PIN G21 [get_ports rst_n]
+set_property IOSTANDARD LVCMOS33 [get_ports LED]
+set_property IOSTANDARD LVCMOS33 [get_ports rst_n]
