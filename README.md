@@ -16,13 +16,13 @@
 
 ##  仓库结构说明
 
-FPGA-Learning-Diary
-├── mux2/ # 2:1 多路选择器实验
-├── Linear Sequence Machine/ # 线性序列状态机
-├── Linear Sequence Machine 2/
-├── Linear Sequence Machine 3/
-├── my_2_4s1/ # 2-4 译码 / 选择逻辑相关实验
-└── README.md
+FPGA-Learning-Diary<br>
+├── mux2/ # 2:1 多路选择器实验<br>
+├── Linear Sequence Machine/ # 线性序列状态机<br>
+├── Linear Sequence Machine 2/<br>
+├── Linear Sequence Machine 3/<br>
+├── my_2_4s1/ # 2-4 译码 / 选择逻辑相关实验<br>
+└── README.md<br>
 
 - 每个文件夹 **对应一个独立 Vivado 工程**
 - 工程之间互不依赖，可单独打开、综合、仿真或上板验证
